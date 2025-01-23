@@ -1,3 +1,15 @@
 # END-to-END Latent Dirichlet Allocation in Python
 Python code for **END-to-END Latent Dirichlet Allocation in Python**, *Python in Plain English (Medium)*, 2024-21-2.
 Article is [here](https://medium.com/python-in-plain-english/end-to-end-latent-dirichlet-allocation-in-python-ac7bf75cd9fc?sk=37374dd502e7ff5d9c24b23fa8b0afd7).
+
+
+</br>
+
+<p float="left">
+
+  <img src="flowchart_horizontal_highres.png" width="1200" />
+  </br>
+  <img src="FASTOPIC_time_development_8.png" width="400" />
+  <img src="BERtopic_time_development_8.png" width="400" />
+</p>
+
