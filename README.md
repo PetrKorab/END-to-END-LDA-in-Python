@@ -6,10 +6,8 @@ Article is [here](https://medium.com/python-in-plain-english/end-to-end-latent-d
 </br>
 
 <p float="left">
-
-  <img src="flowchart_horizontal_highres.png" width="1200" />
   </br>
-  <img src="FASTOPIC_time_development_8.png" width="400" />
-  <img src="BERtopic_time_development_8.png" width="400" />
+  <img src="LDA democrats clean.png" width="400" />
+  <img src="LDA democrats clean.png" width="400" />
 </p>
 
